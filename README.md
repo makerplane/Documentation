@@ -7,11 +7,9 @@ Current documents:
 
 1. MakerPlane CAN-FIX Avionics Tools
    
-   Provides a reference for developers that wish to create plug-ins or applications that use the MakerPlane tools and communication protocol.
+   Provides a reference for developers that wish to create plug-ins or applications that use the MakerPlane tools and communication protocol. This document has three main sections:
 
-  This document has three main sections:
-
-  1.	FiX Gateway;
-  2.	PyAvTools; and
-  3.	CANArduino.
+   FiX Gateway;
+   PyAvTools; and
+   CANArduino.
 
