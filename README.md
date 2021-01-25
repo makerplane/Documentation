@@ -12,4 +12,8 @@ Current documents:
    FiX Gateway;
    PyAvTools; and
    CANArduino.
+   
+ 2. pyEfis Overview and Implementation Guide
+ 
+    Contains detailed instructions on how to install from scratch and how to configure the screens. 
 
