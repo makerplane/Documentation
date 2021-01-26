@@ -4,4 +4,10 @@ A starting point for users that want to configure their own instruments and scre
 Please copy the files into their respective sub-directories after making backups of the original files.
 
 
+
+
+![alt text](https://makerplane.org/wp-content/uploads/2019/06/EFIS1.jpg)
+
+
+
 ![alt text](https://makerplane.org/wp-content/uploads/2019/06/6-pack.jpg)
