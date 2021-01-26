@@ -13,7 +13,7 @@ Current documents:
    PyAvTools; and
    CANArduino.
    
- **2. pyEfis Overview and Implementation Guide
+ **2. pyEfis Overview and Implementation Guide**
  
-    Contains detailed instructions on how to install from scratch and how to configure the screens. 
+   Contains detailed instructions on how to install from scratch and how to configure the screens. 
 
