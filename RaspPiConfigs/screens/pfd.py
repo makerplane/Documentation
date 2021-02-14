@@ -164,7 +164,7 @@ class Screen(QWidget):
         
         #airspeed numeric display size and position
         self.asd_Box.resize(100, 100)
-        self.asd_Box.move(5, instHeight + 50)
+        self.asd_Box.move(5, instHeight + 10)
         
         #HSI size and position
         hsi_diameter=instWidth/1.85
@@ -176,8 +176,8 @@ class Screen(QWidget):
                     instHeight - hsi_diameter - self.heading_disp.height()+250)
 
         # baro pressure font size and placement
-        self.alt_setting.resize(110, 20)
-        self.alt_setting.move(instWidth -40, instHeight + 70)
+        self.alt_setting.resize(110, 30)
+        self.alt_setting.move(instWidth -40, instHeight + 15)
 
         #turn coordinator size and position
         tc_width = instWidth * .3
@@ -202,7 +202,7 @@ class Screen(QWidget):
 
         # fuel flow gauge position and size
         self.ff.resize(100, 70)
-        self.ff.move(self.width() - 125, 1340)
+        self.ff.move(self.width() - 200, 560)
 
         # cht gauge position and size
         self.cht.resize(100, 70)
